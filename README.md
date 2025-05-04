@@ -60,6 +60,40 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 Identifying the design properties of a mockup is crucial because it ensures your final frontend implementation matches the intended user experience and visual style and turns a static mockup into a live, faithful, and functional frontend product.
 
+##  Project Roles and Responsibilities
+
+| Role              | Responsibilities                                                       |
+|-------------------|-------------------------------------------------------------------------|
+| Project Manager   | Oversees timeline, coordinates team, manages deliverables              |
+| Frontend Developers | Implements UI components, ensures responsive design                   |
+| Backend Developers | Builds APIs, manages database, implements business logic               |
+| Designers         | Creates mockups, maintains design system, ensures UX quality           |
+| QA/Testers        | Writes test cases, performs testing, reports bugs                      |
+| DevOps Engineers  | Manages deployment, CI/CD pipeline, server infrastructure              |
+| Product Owner     | Defines requirements, prioritizes features, represents stakeholders    |
+| Scrum Master      | Facilitates agile processes, removes blockers, organizes meetings      |
+
+## UI Componeent Patterns
+1.Navbar
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+
+2.Property Card
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+
+3.Footer
+- Site links
+- Company information
+- Social media links
+- Copyright information
+
+
+
 
    
 
