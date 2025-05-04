@@ -73,7 +73,7 @@ Identifying the design properties of a mockup is crucial because it ensures your
 | Product Owner     | Defines requirements, prioritizes features, represents stakeholders    |
 | Scrum Master      | Facilitates agile processes, removes blockers, organizes meetings      |
 
-## UI Componeent Patterns
+## UI Component Patterns
 1.Navbar
 - Logo
 - Search bar
